@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace HW_Algorithm6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
